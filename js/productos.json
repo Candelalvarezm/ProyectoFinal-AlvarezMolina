@@ -1,0 +1,101 @@
+[
+    {
+        "id": "collar-neva",
+        "titulo": "Choker Neva",
+        "imagen": "assets/collares/collar-1.png",
+        "categoria": {
+            "nombre": "Collares",
+            "id": "collares"
+        },
+        "precio": 15000
+    },
+
+    {   
+        "id": "pulsera-ganges",
+        "titulo": "Pulsera Ganges",
+        "imagen": "assets/pulseras/pulsera-1.png",
+        "categoria": {
+            "nombre": "Pulseras",
+            "id": "pulseras"
+        },
+        "precio": 14000
+    },
+
+    {
+        "id": "collar-amur",
+        "titulo": "Collar Amur",
+        "imagen": "assets/collares/collar-2.png",
+        "categoria": {
+            "nombre": "Collares",
+            "id": "collares"
+        },
+        "precio": 12000
+    },
+
+    {
+        "id": "pulsera-lena",
+        "titulo": "Esclava Lena",
+        "imagen": "assets/pulseras/pulsera-2.png",
+        "categoria": {
+            "nombre": "Pulseras",
+            "id": "pulseras"
+        },
+        "precio": 11000
+    },
+
+    {
+        "id": "collar-orinoco",
+        "titulo": "Collar Orinoco",
+        "imagen": "assets/collares/collar-3.png",
+        "categoria": {
+            "nombre": "Collares",
+            "id": "collares"
+        },
+        "precio": 20000
+    },
+
+    {
+        "id": "pulsera-tiber",
+        "titulo": "Pulsera Tiber",
+        "imagen": "assets/pulseras/pulsera-3.png",
+        "categoria": {
+            "nombre": "Pulseras",
+            "id": "pulseras"
+        },
+        "precio": 15000
+    },
+
+    {
+        "id": "collar-tista",
+        "titulo": "Collar Tista",
+        "imagen": "assets/collares/collar-4.png",
+        "categoria": {
+            "nombre": "Collares",
+            "id": "collares"
+        },
+        "precio": 28000
+    },
+
+    {
+        "id": "pulsera-perlas",
+        "titulo": "Pulsera Perlas",
+        "imagen": "assets/pulseras/pulsera-4.png",
+        "categoria": {
+            "nombre": "Pulseras",
+            "id": "pulseras"
+        },
+        "precio": 10000
+    },
+
+    {
+        "id": "collar-lagen",
+        "titulo": "Collar Lagen",
+        "imagen": "assets/collares/collar-5.png",
+        "categoria": {
+            "nombre": "Collares",
+            "id": "collares"
+        },
+        "precio": 25000
+    }
+
+]
